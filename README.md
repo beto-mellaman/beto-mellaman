@@ -22,7 +22,7 @@ Actualmente estoy estudiando el grado de **DAM** en [CESTE](https://www.ceste.es
 
 ***
 **Estudios**
-> Grado Superior de Marketing y Publicidad, *Academia Marco*
+> Grado Superior de Marketing y Publicidad, *Academia Marco*  
 > Grado Supeior de Gestion de Ventas y Espacios Comerciales, *CPIF los enlaces*
 
 ***
