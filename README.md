@@ -1,5 +1,5 @@
 ## Hola, soy Beto 👋
-Me llamo **Alberto**, pero todo el mundo me conoce como *Beto*. Soy nuevo en el muno de la programación.
+Me llamo **Alberto**, pero todo el mundo me conoce como *Beto*. Soy nuevo en el mundo de la programación.
 
 Llevo desde 2008 trabajando como diseñador gráfico *freelance* para el sector de la Hostelería.
 
@@ -18,12 +18,12 @@ Actualmente estoy estudiando el grado de **DAM** en [CESTE](https://www.ceste.es
     ![Dramweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-072401?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=34F400)
 
 - Marketing on-line
-- Gestion de ventas
+- Gestión de ventas
 
 ***
 **Estudios**
 > Grado Superior de Marketing y Publicidad, *Academia Marco*  
-> Grado Supeior de Gestion de Ventas y Espacios Comerciales, *CPIF los enlaces*
+> Grado Supeior de Gestión de Ventas y Espacios Comerciales, *CPIFP los enlaces*
 
 ***
 **Intereses**
